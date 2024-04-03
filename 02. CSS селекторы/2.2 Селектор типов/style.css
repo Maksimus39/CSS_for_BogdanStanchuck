@@ -1,7 +1,11 @@
-.highlight{
+#mainHeading{
     background-color: magenta;
 }
 
-.bold{
-    font-weight: bold;
+#mainHeading2{
+    color: lightgreen;
+}
+
+#mainHeading3{
+    font-size: 30px;
 }
