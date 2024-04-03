@@ -1,9 +1,7 @@
-h1{
-    color:crimson;
-    font-size: 30px;
+.highlight{
+    background-color: magenta;
 }
 
-
-p{
-    background-color: lightgreen; /* изменение текста на зелёный */
+.bold{
+    font-weight: bold;
 }
