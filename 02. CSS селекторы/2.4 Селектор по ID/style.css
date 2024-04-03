@@ -1,10 +1,4 @@
-h1{
-    color:crimson;
-    font-size: 30px; /* я написал маленькую задачку на селектор типов
-    */
-}
-
-
-p{
-    background-color: lightgreen; /* изменение текста на зелёный */
+#h1ID{
+    color: magenta;
+    font-size: 80px;
 }
