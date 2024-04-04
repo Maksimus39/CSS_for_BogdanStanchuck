@@ -1,0 +1,8 @@
+[data-category="main"] {
+    background-color: #40d31f;
+}
+
+[data-category="titleH1"]{
+    color: #2231d9;
+    font-size: 60px;
+}
