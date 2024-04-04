@@ -1,5 +1,13 @@
 #mainIdHeading,
 h2,
-h3 {
-    color: green;
+span {
+    background-color: green;
+}
+
+
+
+h1,
+h2,
+h3{
+    color: red;
 }
